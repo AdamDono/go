@@ -1,0 +1,49 @@
+
+img{
+
+    width: 200px;
+    align-content: center;
+   
+    
+}
+.row {
+    display: flex;
+           flex-direction: column;
+           justify-content: space-evenly;
+           text-align: center;
+       
+   
+     }
+
+ 
+
+.signup{
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin-bottom: 5%;
+    text-align: left;
+    margin-left: 1%;
+    
+    border-width: 10px;
+
+
+}
+
+.select{
+    
+    font-size: 50px;
+    font-family: 'Nothing You Could Do', cursive;
+    font-family: 'Zeyada', cursive;
+    color: rgb(32, 145, 108);
+    font-weight: 900;
+    
+    
+  }
+
+  .bd{
+
+    margin-top: 1%;
+  }
+  button{
+    align-content: center;
+  }
