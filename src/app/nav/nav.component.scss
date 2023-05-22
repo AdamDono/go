@@ -1,0 +1,54 @@
+.card:hover {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    background-color: #f8f9fa;
+  }
+  
+
+  .nav{
+    margin-bottom: 50px;
+  }
+
+  .cu {
+    width: 123px;
+    height: 131px;
+    background-color: rgba(155, 155, 155, 0.5);
+    color: #000;
+    border-radius: 226px;
+    box-shadow: 0px 0px 38px 0px rgba(0,0,0,0.3);
+  }
+
+  .balance{
+    text-align: center;
+  }
+
+  .slide-left:hover {
+    background-color: rgb(255, 0, 195);
+    transform: translateX(-10px);
+    transition: transform 0.2s ease-out;
+  }
+  
+  .slide-right:hover {
+    background-color: blue;
+    transform: translateX(10px);
+    transition: transform 0.2s ease-out;
+  }
+
+  .row{
+    margin-top: 20px;
+  }
+
+ 
+
+  .nf{
+
+    margin-top: 15px;
+    
+  }
+  .card-body .col-3 img {
+    height: 30px;
+    margin-right: 10px;
+  }
+  
+
+  
+  

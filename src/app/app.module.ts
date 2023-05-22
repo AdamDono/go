@@ -5,16 +5,19 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { SignupComponent } from './signup/signup.component';
 import { SignInComponent } from './sign-in/sign-in.component';
-import { PasswordComponent } from './password/password.component';
+
 import { OtpComponent } from './otp/otp.component';
+import { NavComponent } from './nav/nav.component';
+import { ProfileComponent } from './profile/profile.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     SignupComponent,
     SignInComponent,
-    PasswordComponent,
-    OtpComponent
+    OtpComponent,
+    NavComponent,
+    ProfileComponent
   ],
   imports: [
     BrowserModule,
