@@ -22,13 +22,13 @@
   }
 
   .slide-left:hover {
-    background-color: rgb(255, 0, 195);
+    background-color: rgb(5, 65, 54);
     transform: translateX(-10px);
     transition: transform 0.2s ease-out;
   }
   
   .slide-right:hover {
-    background-color: blue;
+    background-color: rgb(19, 46, 7);
     transform: translateX(10px);
     transition: transform 0.2s ease-out;
   }
